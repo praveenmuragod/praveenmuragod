@@ -1,5 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=AUTO&text=Praveen%20Muragod%20
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=AUTO&text=Praveen%20Muragod)
 # Hi there 👋 I'm Praveen Muragod
 
 <div align="center">
