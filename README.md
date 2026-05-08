@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=AUTO&text=Praveen%20Muragod%20&textBg=false
+https://capsule-render.vercel.app/api?type=waving&height=300&color=AUTO&text=Praveen%20Muragod%20
 
 # Hi there 👋 I'm Praveen Muragod
 
